@@ -1,8 +1,8 @@
-Package: hydroclimate-pile-of-stuff
+Package: hydroclimate_pile_of_stuff
 Version: 0.0.1
 Date: 2026-02-14
-Title: hydroclimate-pile-of-stuff
-Description: hydroclimate-pile-of-stuff
+Title: hydroclimate_pile_of_stuff
+Description: hydroclimate_pile_of_stuff
 Author: Louis Héraut <louis.heraut@inrae.fr>
 Maintainer: Louis Héraut <louis.heraut@inrae.fr>
 Encoding: UTF-8
