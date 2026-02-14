@@ -1,0 +1,10 @@
+.env*
+*~ 
+*#
+.Rhistory
+*.emacs*
+.directory
+*.nc
+tmp
+results
+*.Rdata

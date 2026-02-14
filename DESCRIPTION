@@ -1,0 +1,17 @@
+Package: hydroclimate-pile-of-stuff
+Version: 0.0.1
+Date: 2026-02-14
+Title: fairy
+Description: hydroclimate-pile-of-stuff
+Author: Louis Héraut <louis.heraut@inrae.fr>
+Maintainer: Louis Héraut <louis.heraut@inrae.fr>
+Encoding: UTF-8
+License: GPL-3
+Imports:
+    dplyr,
+    fst,
+    stringi,
+    arrow,
+    readr
+RoxygenNote: 7.3.2
+
